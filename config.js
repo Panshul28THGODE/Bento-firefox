@@ -23,17 +23,17 @@ const CONFIG = {
 	greetingNight: 'It is time to sleep',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'd6aa4078391f19db2dbce13b5d84804d', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '28.551661',
+	defaultLongitude: '77.275742',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Epinephrine',
+					link: 'https://open.spotify.com/playlist/1UFVagzO0CICTBj3tr2fWE',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'BACKGROUND',
+					link: 'https://open.spotify.com/playlist/4P39MiAXxKKmwOu9C9xKgA',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'F1 STREAM',
+					link: 'https://www.f1me.com',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Netflix',
+					link: 'https://www.Netflix.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Amazon Prime',
+					link: 'https://www.primevideo.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Amazon',
+					link: 'https://www.amazon.in',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
 				},
 			],
 		},
