@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Mail',
+			icon: 'mails',
+			link: 'https://mail.google.com/mail/u/0/#inbox/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/#inbox/',
+			link: 'https://mail.google.com/mail/u/1/#inbox/',
 		},
 		{
 			id: '3',
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Netflix',
 			icon: 'play',
-			link: 'https://reddit.com',
+			link: 'https://netflix.com',
 		},
 		{
 			id: '6',
